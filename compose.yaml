@@ -1,0 +1,19 @@
+
+services:
+  dashboard:
+    build: .
+    container_name: network-anomaly-dashboard-compose
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
+
+  monitor:
+    build: .
+    container_name: network-anomaly-monitor
+    working_dir: /app
+    command: ["python", "-m", "backend.monitor"]
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
