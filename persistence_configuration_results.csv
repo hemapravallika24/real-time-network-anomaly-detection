@@ -1,0 +1,5 @@
+configuration,benign_sequences_alerted,benign_sequence_rate,attack_sequences_detected,attack_detection_rate,benign_alert_records,attack_alert_records
+2-of-3,17,0.17,100,1.0,27,400
+3-of-5,3,0.03,100,1.0,5,300
+4-of-5,0,0.0,100,1.0,0,200
+5-of-5,0,0.0,100,1.0,0,100

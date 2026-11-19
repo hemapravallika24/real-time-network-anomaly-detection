@@ -1,0 +1,21 @@
+Training Seed,Feature,97.5 Percentile,99 Percentile,99.5 Percentile
+42,packet_count,149.0,150.0,150.0
+42,bytes_transferred,5949.625,5983.01,5986.515
+42,connection_duration,15.0,15.0,15.0
+42,failed_connections,2.0,2.0,2.0
+43,packet_count,149.0,150.0,150.0
+43,bytes_transferred,5968.625,5983.01,5984.505
+43,connection_duration,15.0,15.0,15.0
+43,failed_connections,2.0,2.0,2.0
+44,packet_count,149.0,150.0,150.0
+44,bytes_transferred,5931.05,5971.12,5987.505
+44,connection_duration,15.0,15.0,15.0
+44,failed_connections,2.0,2.0,2.0
+45,packet_count,148.0,149.0,150.0
+45,bytes_transferred,5935.0,5981.1,5992.01
+45,connection_duration,15.0,15.0,15.0
+45,failed_connections,2.0,2.0,2.0
+46,packet_count,149.0,150.0,150.0
+46,bytes_transferred,5956.625,5972.08,5983.515
+46,connection_duration,15.0,15.0,15.0
+46,failed_connections,2.0,2.0,2.0

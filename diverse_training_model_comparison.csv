@@ -1,0 +1,6 @@
+method,accuracy,precision,recall,f1,TN,FP,FN,TP
+Isolation Forest,0.903,0.6153846153846154,0.08,0.1415929203539823,895,5,92,8
+Rules - Any feature,0.989,0.9009009009009009,1.0,0.9478672985781991,889,11,0,100
+Rules - Two or more features,0.9,0.0,0.0,0.0,900,0,100,0
+Hybrid - IF OR two features,0.903,0.6153846153846154,0.08,0.1415929203539823,895,5,92,8
+Hybrid - IF AND two features,0.9,0.0,0.0,0.0,900,0,100,0

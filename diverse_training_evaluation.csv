@@ -1,0 +1,1001 @@
+packet_count,bytes_transferred,connection_duration,failed_connections,actual,profile,Isolation Forest,Rules - Any feature,Rules - Two or more features,Hybrid - IF OR two features,Hybrid - IF AND two features
+116,4768,6,2,0,Baseline,0,0,0,0,0
+121,5926,6,2,0,Baseline,0,0,0,0,0
+136,4757,5,0,0,Baseline,0,0,0,0,0
+139,5075,15,0,0,Baseline,0,0,0,0,0
+89,5734,15,0,0,Baseline,0,0,0,0,0
+87,5671,10,2,0,Baseline,0,0,0,0,0
+131,4141,8,0,0,Baseline,0,0,0,0,0
+123,5496,14,0,0,Baseline,0,0,0,0,0
+129,4027,8,2,0,Baseline,0,0,0,0,0
+123,4666,8,2,0,Baseline,0,0,0,0,0
+145,5694,11,0,0,Baseline,0,0,0,0,0
+138,5049,8,2,0,Baseline,0,0,0,0,0
+110,5971,13,1,0,Baseline,0,0,0,0,0
+104,4822,9,2,0,Baseline,0,0,0,0,0
+93,4448,13,1,0,Baseline,0,0,0,0,0
+128,4969,5,2,0,Baseline,0,0,0,0,0
+110,5707,14,1,0,Baseline,0,0,0,0,0
+115,4987,8,1,0,Baseline,0,0,0,0,0
+141,4206,14,0,0,Baseline,0,0,0,0,0
+87,5195,9,1,0,Baseline,0,0,0,0,0
+120,4767,12,1,0,Baseline,0,0,0,0,0
+149,4612,6,2,0,Baseline,0,0,0,0,0
+150,4361,6,2,0,Baseline,0,0,0,0,0
+136,4962,10,2,0,Baseline,0,0,0,0,0
+124,4440,10,1,0,Baseline,0,0,0,0,0
+105,4121,7,0,0,Baseline,0,0,0,0,0
+106,4338,12,2,0,Baseline,0,0,0,0,0
+102,5719,12,1,0,Baseline,0,0,0,0,0
+150,4957,6,0,0,Baseline,0,0,0,0,0
+85,4098,13,1,0,Baseline,0,0,0,0,0
+97,5089,5,2,0,Baseline,0,0,0,0,0
+107,5601,7,2,0,Baseline,0,0,0,0,0
+89,5208,15,1,0,Baseline,0,0,0,0,0
+81,5706,5,1,0,Baseline,0,0,0,0,0
+87,5139,10,1,0,Baseline,0,0,0,0,0
+110,4865,10,1,0,Baseline,0,0,0,0,0
+118,4130,12,2,0,Baseline,0,0,0,0,0
+123,4665,7,0,0,Baseline,0,0,0,0,0
+106,5645,15,2,0,Baseline,0,0,0,0,0
+118,5472,7,0,0,Baseline,0,0,0,0,0
+85,4145,5,0,0,Baseline,0,0,0,0,0
+101,5712,13,0,0,Baseline,0,0,0,0,0
+115,4146,11,1,0,Baseline,0,0,0,0,0
+89,4947,14,0,0,Baseline,0,0,0,0,0
+117,5273,15,0,0,Baseline,0,0,0,0,0
+105,4727,6,0,0,Baseline,0,0,0,0,0
+131,5399,8,0,0,Baseline,0,0,0,0,0
+99,4409,8,2,0,Baseline,0,0,0,0,0
+83,5196,15,0,0,Baseline,0,0,0,0,0
+108,5737,11,2,0,Baseline,0,0,0,0,0
+134,4881,8,0,0,Baseline,0,0,0,0,0
+114,4008,15,1,0,Baseline,0,0,0,0,0
+89,4816,15,0,0,Baseline,0,0,0,0,0
+128,5864,6,2,0,Baseline,0,0,0,0,0
+84,5713,12,2,0,Baseline,0,0,0,0,0
+141,4414,5,1,0,Baseline,0,0,0,0,0
+122,4140,15,1,0,Baseline,0,0,0,0,0
+98,4866,14,1,0,Baseline,0,0,0,0,0
+82,4829,10,2,0,Baseline,0,0,0,0,0
+119,4354,11,1,0,Baseline,0,0,0,0,0
+85,5628,8,2,0,Baseline,0,0,0,0,0
+121,4572,9,2,0,Baseline,0,0,0,0,0
+146,5327,14,1,0,Baseline,0,0,0,0,0
+119,5308,7,2,0,Baseline,0,0,0,0,0
+141,5082,12,2,0,Baseline,0,0,0,0,0
+84,4617,9,1,0,Baseline,0,0,0,0,0
+128,4390,15,1,0,Baseline,0,0,0,0,0
+112,5433,7,1,0,Baseline,0,0,0,0,0
+81,4007,7,0,0,Baseline,0,0,0,0,0
+90,5835,8,0,0,Baseline,0,0,0,0,0
+119,4750,5,2,0,Baseline,0,0,0,0,0
+150,4995,15,0,0,Baseline,0,0,0,0,0
+145,4116,10,1,0,Baseline,0,0,0,0,0
+82,5067,5,0,0,Baseline,0,0,0,0,0
+117,5231,7,2,0,Baseline,0,0,0,0,0
+97,5521,7,2,0,Baseline,0,0,0,0,0
+115,4945,7,0,0,Baseline,0,0,0,0,0
+132,5170,11,2,0,Baseline,0,0,0,0,0
+81,5751,15,0,0,Baseline,0,0,0,0,0
+106,4571,7,2,0,Baseline,0,0,0,0,0
+81,5406,12,1,0,Baseline,0,0,0,0,0
+118,5661,5,0,0,Baseline,0,0,0,0,0
+123,4728,11,1,0,Baseline,0,0,0,0,0
+88,4684,8,0,0,Baseline,0,0,0,0,0
+126,5889,8,0,0,Baseline,0,0,0,0,0
+143,5947,12,2,0,Baseline,0,0,0,0,0
+144,4789,12,2,0,Baseline,0,0,0,0,0
+94,4340,11,2,0,Baseline,0,0,0,0,0
+87,4303,5,2,0,Baseline,0,0,0,0,0
+122,4557,5,0,0,Baseline,0,0,0,0,0
+150,5493,8,0,0,Baseline,0,0,0,0,0
+127,5939,15,1,0,Baseline,0,0,0,0,0
+130,5539,11,0,0,Baseline,0,0,0,0,0
+102,4785,6,1,0,Baseline,0,0,0,0,0
+117,5857,7,0,0,Baseline,0,0,0,0,0
+141,5448,8,1,0,Baseline,0,0,0,0,0
+111,5032,13,2,0,Baseline,0,0,0,0,0
+93,4129,5,0,0,Baseline,0,0,0,0,0
+140,4940,7,1,0,Baseline,0,0,0,0,0
+135,5395,9,2,0,Baseline,0,0,0,0,0
+107,4213,5,0,0,Baseline,0,0,0,0,0
+132,4437,7,1,0,Baseline,0,0,0,0,0
+83,5878,12,1,0,Baseline,0,0,0,0,0
+136,5614,6,0,0,Baseline,0,0,0,0,0
+87,4612,8,2,0,Baseline,0,0,0,0,0
+123,4361,6,0,0,Baseline,0,0,0,0,0
+111,5683,10,0,0,Baseline,0,0,0,0,0
+148,4912,6,0,0,Baseline,0,0,0,0,0
+100,4110,13,1,0,Baseline,0,0,0,0,0
+131,5350,7,1,0,Baseline,0,0,0,0,0
+109,5969,6,1,0,Baseline,0,0,0,0,0
+106,5182,13,1,0,Baseline,0,0,0,0,0
+82,5194,10,1,0,Baseline,0,0,0,0,0
+142,4190,10,0,0,Baseline,0,0,0,0,0
+125,4775,5,2,0,Baseline,0,0,0,0,0
+93,5626,15,0,0,Baseline,0,0,0,0,0
+120,5097,6,1,0,Baseline,0,0,0,0,0
+123,5816,8,2,0,Baseline,0,0,0,0,0
+92,4942,14,0,0,Baseline,0,0,0,0,0
+91,4191,12,1,0,Baseline,0,0,0,0,0
+120,5432,5,0,0,Baseline,0,0,0,0,0
+96,4610,8,0,0,Baseline,0,0,0,0,0
+126,4272,7,0,0,Baseline,0,0,0,0,0
+100,5687,8,2,0,Baseline,0,0,0,0,0
+130,5002,9,0,0,Baseline,0,0,0,0,0
+102,5969,14,0,0,Baseline,0,0,0,0,0
+140,5658,5,1,0,Baseline,0,0,0,0,0
+150,4093,9,0,0,Baseline,0,0,0,0,0
+91,5305,11,0,0,Baseline,0,0,0,0,0
+146,4393,13,0,0,Baseline,0,0,0,0,0
+128,4494,12,2,0,Baseline,0,0,0,0,0
+144,4227,13,2,0,Baseline,0,0,0,0,0
+113,5868,9,0,0,Baseline,0,0,0,0,0
+131,4467,8,0,0,Baseline,0,0,0,0,0
+141,4306,11,0,0,Baseline,0,0,0,0,0
+97,5758,11,0,0,Baseline,0,0,0,0,0
+81,5462,7,2,0,Baseline,0,0,0,0,0
+97,5800,8,0,0,Baseline,0,0,0,0,0
+95,5423,13,1,0,Baseline,0,0,0,0,0
+112,5412,14,2,0,Baseline,0,0,0,0,0
+96,5699,8,1,0,Baseline,0,0,0,0,0
+94,5558,8,0,0,Baseline,0,0,0,0,0
+93,5303,10,2,0,Baseline,0,0,0,0,0
+143,5379,14,1,0,Baseline,0,0,0,0,0
+125,5905,8,1,0,Baseline,0,0,0,0,0
+144,5059,9,0,0,Baseline,0,0,0,0,0
+131,5320,8,2,0,Baseline,0,0,0,0,0
+125,4263,6,2,0,Baseline,0,0,0,0,0
+115,4217,6,0,0,Baseline,0,0,0,0,0
+119,5493,6,1,0,Baseline,0,0,0,0,0
+139,4566,10,2,0,Baseline,0,0,0,0,0
+91,5841,15,0,0,Baseline,0,0,0,0,0
+100,4149,14,0,0,Baseline,0,0,0,0,0
+116,4805,6,0,0,Baseline,0,0,0,0,0
+85,5346,5,0,0,Baseline,0,0,0,0,0
+99,4859,13,0,0,Baseline,0,0,0,0,0
+141,4784,10,2,0,Baseline,0,0,0,0,0
+141,5698,5,0,0,Baseline,0,0,0,0,0
+144,5137,11,1,0,Baseline,0,0,0,0,0
+97,5425,11,2,0,Baseline,0,0,0,0,0
+129,5804,8,0,0,Baseline,0,0,0,0,0
+147,5791,10,0,0,Baseline,0,0,0,0,0
+95,4269,10,0,0,Baseline,0,0,0,0,0
+83,4507,9,0,0,Baseline,0,0,0,0,0
+87,4457,8,0,0,Baseline,0,0,0,0,0
+147,4170,6,1,0,Baseline,0,0,0,0,0
+145,4281,5,2,0,Baseline,0,0,0,0,0
+134,5226,15,2,0,Baseline,0,0,0,0,0
+91,4337,5,2,0,Baseline,0,0,0,0,0
+105,5200,6,0,0,Baseline,0,0,0,0,0
+110,5060,7,1,0,Baseline,0,0,0,0,0
+120,4732,12,0,0,Baseline,0,0,0,0,0
+86,4295,15,1,0,Baseline,0,0,0,0,0
+149,4744,8,2,0,Baseline,0,0,0,0,0
+137,4611,14,2,0,Baseline,0,0,0,0,0
+123,4983,10,1,0,Baseline,0,0,0,0,0
+132,5399,10,2,0,Baseline,0,0,0,0,0
+101,4109,12,1,0,Baseline,0,0,0,0,0
+105,4726,5,2,0,Baseline,0,0,0,0,0
+110,5340,7,0,0,Baseline,0,0,0,0,0
+205,5735,13,0,0,High packet activity,0,0,0,0,0
+186,5658,15,1,0,High packet activity,0,0,0,0,0
+214,5259,19,1,0,High packet activity,0,0,0,0,0
+206,4038,5,0,0,High packet activity,0,0,0,0,0
+186,6018,16,0,0,High packet activity,0,0,0,0,0
+220,5032,20,1,0,High packet activity,0,1,0,0,0
+154,5326,16,0,0,High packet activity,0,0,0,0,0
+218,5881,8,1,0,High packet activity,0,0,0,0,0
+191,5082,5,1,0,High packet activity,0,0,0,0,0
+157,4898,15,0,0,High packet activity,0,0,0,0,0
+170,5952,9,1,0,High packet activity,0,0,0,0,0
+182,6388,15,0,0,High packet activity,0,0,0,0,0
+152,5931,14,0,0,High packet activity,0,0,0,0,0
+202,4941,6,1,0,High packet activity,0,0,0,0,0
+142,5200,16,0,0,High packet activity,0,0,0,0,0
+131,4175,6,1,0,High packet activity,0,0,0,0,0
+194,5053,7,2,0,High packet activity,0,0,0,0,0
+174,5110,14,0,0,High packet activity,0,0,0,0,0
+181,5134,16,2,0,High packet activity,0,0,0,0,0
+175,5730,12,0,0,High packet activity,0,0,0,0,0
+161,4091,11,1,0,High packet activity,0,0,0,0,0
+214,4579,8,2,0,High packet activity,0,0,0,0,0
+130,4131,19,0,0,High packet activity,0,0,0,0,0
+210,5435,13,2,0,High packet activity,0,0,0,0,0
+146,4752,15,0,0,High packet activity,0,0,0,0,0
+187,6345,17,0,0,High packet activity,0,0,0,0,0
+140,5579,18,1,0,High packet activity,0,0,0,0,0
+182,4486,7,0,0,High packet activity,0,0,0,0,0
+163,4030,11,1,0,High packet activity,0,0,0,0,0
+205,5636,8,1,0,High packet activity,0,0,0,0,0
+205,6405,19,0,0,High packet activity,0,0,0,0,0
+192,6160,12,0,0,High packet activity,0,0,0,0,0
+156,5979,6,0,0,High packet activity,0,0,0,0,0
+162,5702,11,2,0,High packet activity,0,0,0,0,0
+156,4595,17,2,0,High packet activity,0,0,0,0,0
+152,5779,19,1,0,High packet activity,0,0,0,0,0
+133,5382,19,2,0,High packet activity,0,0,0,0,0
+199,6170,5,1,0,High packet activity,0,0,0,0,0
+180,4026,11,0,0,High packet activity,0,0,0,0,0
+161,6279,9,0,0,High packet activity,0,0,0,0,0
+220,4894,17,2,0,High packet activity,0,1,0,0,0
+152,4749,18,1,0,High packet activity,0,0,0,0,0
+142,5238,7,1,0,High packet activity,0,0,0,0,0
+159,6247,15,1,0,High packet activity,0,0,0,0,0
+181,6093,7,1,0,High packet activity,0,0,0,0,0
+150,5402,8,1,0,High packet activity,0,0,0,0,0
+134,4889,9,2,0,High packet activity,0,0,0,0,0
+195,6036,10,2,0,High packet activity,0,0,0,0,0
+206,5677,5,2,0,High packet activity,0,0,0,0,0
+170,5065,13,0,0,High packet activity,0,0,0,0,0
+190,4080,10,0,0,High packet activity,0,0,0,0,0
+149,6321,20,0,0,High packet activity,0,0,0,0,0
+187,4297,10,1,0,High packet activity,0,0,0,0,0
+209,5141,17,1,0,High packet activity,0,0,0,0,0
+168,5634,8,1,0,High packet activity,0,0,0,0,0
+146,5933,15,1,0,High packet activity,0,0,0,0,0
+171,5501,13,1,0,High packet activity,0,0,0,0,0
+187,5135,11,1,0,High packet activity,0,0,0,0,0
+157,4269,12,2,0,High packet activity,0,0,0,0,0
+202,4608,8,2,0,High packet activity,0,0,0,0,0
+141,6408,14,2,0,High packet activity,0,0,0,0,0
+206,6410,15,2,0,High packet activity,0,0,0,0,0
+213,6430,5,0,0,High packet activity,0,0,0,0,0
+176,4660,11,0,0,High packet activity,0,0,0,0,0
+198,5600,10,1,0,High packet activity,0,0,0,0,0
+211,5836,19,1,0,High packet activity,0,0,0,0,0
+183,6054,8,2,0,High packet activity,0,0,0,0,0
+211,4153,10,0,0,High packet activity,0,0,0,0,0
+207,6448,20,0,0,High packet activity,0,0,0,0,0
+204,4167,9,2,0,High packet activity,0,0,0,0,0
+202,4943,20,1,0,High packet activity,0,0,0,0,0
+181,4146,8,1,0,High packet activity,0,0,0,0,0
+186,5748,12,0,0,High packet activity,0,0,0,0,0
+131,4463,15,1,0,High packet activity,0,0,0,0,0
+147,5995,13,2,0,High packet activity,0,0,0,0,0
+157,6123,13,2,0,High packet activity,0,0,0,0,0
+157,4441,20,0,0,High packet activity,0,0,0,0,0
+181,5335,17,0,0,High packet activity,0,0,0,0,0
+195,5948,7,1,0,High packet activity,0,0,0,0,0
+209,6286,13,0,0,High packet activity,0,0,0,0,0
+144,5311,8,1,0,High packet activity,0,0,0,0,0
+217,4004,8,2,0,High packet activity,0,0,0,0,0
+172,5478,10,0,0,High packet activity,0,0,0,0,0
+170,4138,18,2,0,High packet activity,0,0,0,0,0
+184,5347,14,2,0,High packet activity,0,0,0,0,0
+190,6441,6,0,0,High packet activity,0,0,0,0,0
+146,4309,13,1,0,High packet activity,0,0,0,0,0
+157,4521,12,0,0,High packet activity,0,0,0,0,0
+163,4839,9,1,0,High packet activity,0,0,0,0,0
+165,5549,12,1,0,High packet activity,0,0,0,0,0
+170,5204,7,0,0,High packet activity,0,0,0,0,0
+163,4714,9,1,0,High packet activity,0,0,0,0,0
+134,4539,13,2,0,High packet activity,0,0,0,0,0
+174,4697,5,2,0,High packet activity,0,0,0,0,0
+205,4181,9,2,0,High packet activity,0,0,0,0,0
+193,4636,6,0,0,High packet activity,0,0,0,0,0
+141,4919,13,1,0,High packet activity,0,0,0,0,0
+131,4571,7,0,0,High packet activity,0,0,0,0,0
+133,4247,16,1,0,High packet activity,0,0,0,0,0
+219,5765,13,0,0,High packet activity,0,1,0,0,0
+151,5693,17,2,0,High packet activity,0,0,0,0,0
+182,6141,18,2,0,High packet activity,0,0,0,0,0
+154,5946,9,2,0,High packet activity,0,0,0,0,0
+160,5419,13,2,0,High packet activity,0,0,0,0,0
+140,4877,6,2,0,High packet activity,0,0,0,0,0
+174,5235,20,2,0,High packet activity,0,0,0,0,0
+153,4879,11,1,0,High packet activity,0,0,0,0,0
+131,5268,17,2,0,High packet activity,0,0,0,0,0
+134,5329,17,1,0,High packet activity,0,0,0,0,0
+131,4056,20,2,0,High packet activity,0,0,0,0,0
+197,4738,14,1,0,High packet activity,0,0,0,0,0
+176,4520,17,1,0,High packet activity,0,0,0,0,0
+137,5964,10,0,0,High packet activity,0,0,0,0,0
+185,5365,5,2,0,High packet activity,0,0,0,0,0
+157,5312,14,1,0,High packet activity,0,0,0,0,0
+195,5801,16,0,0,High packet activity,0,0,0,0,0
+213,5098,10,0,0,High packet activity,0,0,0,0,0
+133,6264,11,0,0,High packet activity,0,0,0,0,0
+138,5112,16,0,0,High packet activity,0,0,0,0,0
+146,4401,20,2,0,High packet activity,0,0,0,0,0
+143,5190,13,1,0,High packet activity,0,0,0,0,0
+181,6468,8,1,0,High packet activity,0,0,0,0,0
+189,5784,18,1,0,High packet activity,0,0,0,0,0
+161,6207,14,0,0,High packet activity,0,0,0,0,0
+183,6481,19,1,0,High packet activity,0,0,0,0,0
+180,5193,13,2,0,High packet activity,0,0,0,0,0
+193,4653,13,1,0,High packet activity,0,0,0,0,0
+212,4371,6,0,0,High packet activity,0,0,0,0,0
+192,5790,12,1,0,High packet activity,0,0,0,0,0
+153,4827,6,2,0,High packet activity,0,0,0,0,0
+176,4858,11,0,0,High packet activity,0,0,0,0,0
+155,4643,11,2,0,High packet activity,0,0,0,0,0
+185,5254,16,2,0,High packet activity,0,0,0,0,0
+141,6118,18,1,0,High packet activity,0,0,0,0,0
+154,5348,14,2,0,High packet activity,0,0,0,0,0
+172,6349,13,2,0,High packet activity,0,0,0,0,0
+210,6157,14,1,0,High packet activity,0,0,0,0,0
+147,4363,7,1,0,High packet activity,0,0,0,0,0
+184,6455,6,2,0,High packet activity,0,0,0,0,0
+148,6250,13,1,0,High packet activity,0,0,0,0,0
+210,4613,9,0,0,High packet activity,0,0,0,0,0
+206,5882,8,0,0,High packet activity,0,0,0,0,0
+180,5301,6,0,0,High packet activity,0,0,0,0,0
+186,4385,6,0,0,High packet activity,0,0,0,0,0
+156,6379,19,0,0,High packet activity,0,0,0,0,0
+161,5384,18,1,0,High packet activity,0,0,0,0,0
+153,6351,17,1,0,High packet activity,0,0,0,0,0
+166,5536,7,2,0,High packet activity,0,0,0,0,0
+196,5586,5,2,0,High packet activity,0,0,0,0,0
+135,5920,12,0,0,High packet activity,0,0,0,0,0
+169,6117,8,1,0,High packet activity,0,0,0,0,0
+218,6187,20,2,0,High packet activity,0,0,0,0,0
+213,5518,15,1,0,High packet activity,0,0,0,0,0
+138,6392,7,2,0,High packet activity,0,0,0,0,0
+219,5234,18,0,0,High packet activity,0,1,0,0,0
+135,4261,9,1,0,High packet activity,0,0,0,0,0
+149,5301,18,1,0,High packet activity,0,0,0,0,0
+189,5135,16,2,0,High packet activity,0,0,0,0,0
+149,4195,9,2,0,High packet activity,0,0,0,0,0
+183,6178,9,1,0,High packet activity,0,0,0,0,0
+201,4550,16,2,0,High packet activity,0,0,0,0,0
+209,5623,15,0,0,High packet activity,0,0,0,0,0
+131,4322,11,1,0,High packet activity,0,0,0,0,0
+206,5931,20,1,0,High packet activity,0,0,0,0,0
+206,4867,11,0,0,High packet activity,0,0,0,0,0
+194,5635,9,0,0,High packet activity,0,0,0,0,0
+191,6449,7,1,0,High packet activity,0,0,0,0,0
+171,6418,15,1,0,High packet activity,0,0,0,0,0
+166,4777,9,1,0,High packet activity,0,0,0,0,0
+214,6338,19,0,0,High packet activity,0,0,0,0,0
+159,4574,17,0,0,High packet activity,0,0,0,0,0
+194,5644,11,0,0,High packet activity,0,0,0,0,0
+163,6101,6,2,0,High packet activity,0,0,0,0,0
+182,4989,8,1,0,High packet activity,0,0,0,0,0
+210,6378,9,0,0,High packet activity,0,0,0,0,0
+134,5610,16,2,0,High packet activity,0,0,0,0,0
+195,5207,10,0,0,High packet activity,0,0,0,0,0
+155,6343,10,1,0,High packet activity,0,0,0,0,0
+196,5576,6,0,0,High packet activity,0,0,0,0,0
+146,4162,5,0,0,High packet activity,0,0,0,0,0
+150,5770,25,0,0,Large data transfers,0,0,0,0,0
+108,5691,19,1,0,Large data transfers,0,0,0,0,0
+171,7443,8,0,0,Large data transfers,0,1,0,0,0
+164,5718,10,0,0,Large data transfers,0,0,0,0,0
+148,6954,12,1,0,Large data transfers,0,0,0,0,0
+92,6753,23,1,0,Large data transfers,0,0,0,0,0
+125,7451,22,2,0,Large data transfers,0,1,0,0,0
+173,5363,10,1,0,Large data transfers,0,0,0,0,0
+170,5586,6,1,0,Large data transfers,0,0,0,0,0
+151,7274,14,2,0,Large data transfers,0,0,0,0,0
+166,7221,6,1,0,Large data transfers,0,0,0,0,0
+146,7410,9,2,0,Large data transfers,0,0,0,0,0
+173,5112,9,1,0,Large data transfers,0,0,0,0,0
+138,5668,11,2,0,Large data transfers,0,0,0,0,0
+159,7015,9,1,0,Large data transfers,0,0,0,0,0
+83,5778,17,0,0,Large data transfers,0,0,0,0,0
+127,5681,6,1,0,Large data transfers,0,0,0,0,0
+176,7147,10,2,0,Large data transfers,0,0,0,0,0
+97,7106,21,2,0,Large data transfers,0,0,0,0,0
+158,6380,8,2,0,Large data transfers,0,0,0,0,0
+164,6136,23,1,0,Large data transfers,0,0,0,0,0
+173,5909,12,2,0,Large data transfers,0,0,0,0,0
+90,5772,14,1,0,Large data transfers,0,0,0,0,0
+164,5220,6,1,0,Large data transfers,0,0,0,0,0
+87,5792,18,2,0,Large data transfers,0,0,0,0,0
+99,6947,19,1,0,Large data transfers,0,0,0,0,0
+88,6157,7,1,0,Large data transfers,0,0,0,0,0
+148,5196,15,1,0,Large data transfers,0,0,0,0,0
+99,5664,8,1,0,Large data transfers,0,0,0,0,0
+86,5256,15,1,0,Large data transfers,0,0,0,0,0
+104,7132,13,2,0,Large data transfers,0,0,0,0,0
+113,5789,16,0,0,Large data transfers,0,0,0,0,0
+150,5038,5,0,0,Large data transfers,0,0,0,0,0
+171,7478,12,0,0,Large data transfers,0,1,0,0,0
+110,6576,11,2,0,Large data transfers,0,0,0,0,0
+170,6434,24,2,0,Large data transfers,0,0,0,0,0
+99,5283,25,0,0,Large data transfers,0,0,0,0,0
+179,5367,25,0,0,Large data transfers,0,0,0,0,0
+89,6162,20,2,0,Large data transfers,0,0,0,0,0
+83,6310,20,2,0,Large data transfers,0,0,0,0,0
+89,5314,13,1,0,Large data transfers,0,0,0,0,0
+130,6581,12,2,0,Large data transfers,0,0,0,0,0
+106,6577,20,1,0,Large data transfers,0,0,0,0,0
+152,7405,14,1,0,Large data transfers,0,0,0,0,0
+170,5972,14,2,0,Large data transfers,0,0,0,0,0
+161,5141,8,0,0,Large data transfers,0,0,0,0,0
+137,5168,15,1,0,Large data transfers,0,0,0,0,0
+168,5777,15,0,0,Large data transfers,0,0,0,0,0
+172,5617,12,0,0,Large data transfers,0,0,0,0,0
+157,6680,7,1,0,Large data transfers,0,0,0,0,0
+154,5678,19,1,0,Large data transfers,0,0,0,0,0
+105,6782,16,2,0,Large data transfers,0,0,0,0,0
+134,6639,6,1,0,Large data transfers,0,0,0,0,0
+165,6949,8,2,0,Large data transfers,0,0,0,0,0
+97,6668,6,0,0,Large data transfers,0,0,0,0,0
+82,5151,5,1,0,Large data transfers,0,0,0,0,0
+136,5680,5,1,0,Large data transfers,0,0,0,0,0
+158,5505,10,1,0,Large data transfers,0,0,0,0,0
+123,6693,22,1,0,Large data transfers,0,0,0,0,0
+151,6549,16,0,0,Large data transfers,0,0,0,0,0
+95,7384,18,1,0,Large data transfers,0,0,0,0,0
+142,5602,24,2,0,Large data transfers,0,0,0,0,0
+152,5149,13,0,0,Large data transfers,0,0,0,0,0
+145,6516,14,1,0,Large data transfers,0,0,0,0,0
+98,6792,21,0,0,Large data transfers,0,0,0,0,0
+82,7058,12,1,0,Large data transfers,0,0,0,0,0
+109,5712,21,1,0,Large data transfers,0,0,0,0,0
+158,6385,20,0,0,Large data transfers,0,0,0,0,0
+174,6222,16,1,0,Large data transfers,0,0,0,0,0
+134,5576,24,2,0,Large data transfers,0,0,0,0,0
+136,6199,5,1,0,Large data transfers,0,0,0,0,0
+88,5077,5,1,0,Large data transfers,0,0,0,0,0
+152,6474,13,0,0,Large data transfers,0,0,0,0,0
+91,5162,24,1,0,Large data transfers,0,0,0,0,0
+124,6438,7,0,0,Large data transfers,0,0,0,0,0
+159,7245,19,0,0,Large data transfers,0,0,0,0,0
+129,7280,21,0,0,Large data transfers,0,0,0,0,0
+156,5481,16,2,0,Large data transfers,0,0,0,0,0
+150,5686,17,1,0,Large data transfers,0,0,0,0,0
+102,7324,6,1,0,Large data transfers,0,0,0,0,0
+160,7343,8,0,0,Large data transfers,0,0,0,0,0
+110,5184,8,0,0,Large data transfers,0,0,0,0,0
+104,6691,9,2,0,Large data transfers,0,0,0,0,0
+157,7078,19,2,0,Large data transfers,0,0,0,0,0
+133,6376,25,0,0,Large data transfers,0,0,0,0,0
+129,6827,19,2,0,Large data transfers,0,0,0,0,0
+120,7178,13,1,0,Large data transfers,0,0,0,0,0
+150,7187,7,0,0,Large data transfers,0,0,0,0,0
+121,5861,20,2,0,Large data transfers,0,0,0,0,0
+102,5802,23,2,0,Large data transfers,0,0,0,0,0
+165,5997,24,2,0,Large data transfers,0,0,0,0,0
+160,5992,10,1,0,Large data transfers,0,0,0,0,0
+159,5220,19,1,0,Large data transfers,0,0,0,0,0
+161,6773,18,1,0,Large data transfers,0,0,0,0,0
+136,6414,23,0,0,Large data transfers,0,0,0,0,0
+160,6629,12,2,0,Large data transfers,0,0,0,0,0
+159,6633,7,2,0,Large data transfers,0,0,0,0,0
+148,6401,24,0,0,Large data transfers,0,0,0,0,0
+124,7147,18,1,0,Large data transfers,0,0,0,0,0
+143,6043,22,2,0,Large data transfers,0,0,0,0,0
+124,7483,12,1,0,Large data transfers,0,1,0,0,0
+120,5560,24,0,0,Large data transfers,0,0,0,0,0
+157,6151,22,1,0,Large data transfers,0,0,0,0,0
+128,5531,19,2,0,Large data transfers,0,0,0,0,0
+114,5880,11,2,0,Large data transfers,0,0,0,0,0
+124,6208,10,2,0,Large data transfers,0,0,0,0,0
+146,5227,10,0,0,Large data transfers,0,0,0,0,0
+126,6831,12,2,0,Large data transfers,0,0,0,0,0
+128,5666,11,0,0,Large data transfers,0,0,0,0,0
+140,6881,17,2,0,Large data transfers,0,0,0,0,0
+143,7240,6,2,0,Large data transfers,0,0,0,0,0
+170,6306,13,2,0,Large data transfers,0,0,0,0,0
+179,6840,15,0,0,Large data transfers,0,0,0,0,0
+132,6032,6,0,0,Large data transfers,0,0,0,0,0
+122,7320,22,0,0,Large data transfers,0,0,0,0,0
+167,7055,25,0,0,Large data transfers,0,0,0,0,0
+82,5656,22,2,0,Large data transfers,0,0,0,0,0
+112,6505,14,1,0,Large data transfers,0,0,0,0,0
+89,6379,8,2,0,Large data transfers,0,0,0,0,0
+92,7252,20,2,0,Large data transfers,0,0,0,0,0
+106,7027,9,1,0,Large data transfers,0,0,0,0,0
+160,5348,7,0,0,Large data transfers,0,0,0,0,0
+138,6048,14,1,0,Large data transfers,0,0,0,0,0
+85,5485,21,0,0,Large data transfers,0,0,0,0,0
+134,6255,6,0,0,Large data transfers,0,0,0,0,0
+109,5357,14,1,0,Large data transfers,0,0,0,0,0
+148,6239,18,0,0,Large data transfers,0,0,0,0,0
+98,7301,13,1,0,Large data transfers,0,0,0,0,0
+84,6198,6,1,0,Large data transfers,0,0,0,0,0
+140,6766,22,0,0,Large data transfers,0,0,0,0,0
+169,5745,6,1,0,Large data transfers,0,0,0,0,0
+147,7136,19,1,0,Large data transfers,0,0,0,0,0
+135,7299,22,2,0,Large data transfers,0,0,0,0,0
+180,5909,13,1,0,Large data transfers,0,0,0,0,0
+116,7089,9,2,0,Large data transfers,0,0,0,0,0
+157,7074,23,2,0,Large data transfers,0,0,0,0,0
+120,7331,6,0,0,Large data transfers,0,0,0,0,0
+158,5889,21,2,0,Large data transfers,0,0,0,0,0
+129,5450,12,2,0,Large data transfers,0,0,0,0,0
+158,5891,25,1,0,Large data transfers,0,0,0,0,0
+175,6807,25,0,0,Large data transfers,0,0,0,0,0
+122,5331,19,1,0,Large data transfers,0,0,0,0,0
+91,6594,24,2,0,Large data transfers,0,0,0,0,0
+123,6065,24,0,0,Large data transfers,0,0,0,0,0
+179,6686,19,0,0,Large data transfers,0,0,0,0,0
+136,5286,23,0,0,Large data transfers,0,0,0,0,0
+88,7251,23,2,0,Large data transfers,0,0,0,0,0
+122,7312,15,1,0,Large data transfers,0,0,0,0,0
+128,5258,23,2,0,Large data transfers,0,0,0,0,0
+151,5530,9,1,0,Large data transfers,0,0,0,0,0
+176,6442,22,0,0,Large data transfers,0,0,0,0,0
+117,6457,9,1,0,Large data transfers,0,0,0,0,0
+118,6663,12,0,0,Large data transfers,0,0,0,0,0
+166,7405,14,2,0,Large data transfers,0,0,0,0,0
+120,5660,20,1,0,Large data transfers,0,0,0,0,0
+174,6852,15,0,0,Large data transfers,0,0,0,0,0
+92,5535,11,2,0,Large data transfers,0,0,0,0,0
+153,6486,23,2,0,Large data transfers,0,0,0,0,0
+125,6715,17,1,0,Large data transfers,0,0,0,0,0
+171,5769,20,2,0,Large data transfers,0,0,0,0,0
+144,7073,8,0,0,Large data transfers,0,0,0,0,0
+152,7111,22,1,0,Large data transfers,0,0,0,0,0
+151,5957,16,0,0,Large data transfers,0,0,0,0,0
+85,6406,19,2,0,Large data transfers,0,0,0,0,0
+144,5963,17,0,0,Large data transfers,0,0,0,0,0
+99,5220,9,0,0,Large data transfers,0,0,0,0,0
+136,5786,6,2,0,Large data transfers,0,0,0,0,0
+138,6818,17,0,0,Large data transfers,0,0,0,0,0
+97,6520,7,0,0,Large data transfers,0,0,0,0,0
+143,7104,25,1,0,Large data transfers,0,0,0,0,0
+143,6487,5,2,0,Large data transfers,0,0,0,0,0
+168,5609,15,2,0,Large data transfers,0,0,0,0,0
+122,6618,15,2,0,Large data transfers,0,0,0,0,0
+129,7431,8,1,0,Large data transfers,0,1,0,0,0
+141,7477,22,2,0,Large data transfers,0,1,0,0,0
+148,5103,6,2,0,Large data transfers,0,0,0,0,0
+124,7493,9,0,0,Large data transfers,0,1,0,0,0
+86,7183,12,2,0,Large data transfers,0,0,0,0,0
+133,7176,11,2,0,Large data transfers,0,0,0,0,0
+82,6133,20,0,0,Large data transfers,0,0,0,0,0
+100,5809,29,1,0,Long sessions,0,0,0,0,0
+95,4111,24,1,0,Long sessions,0,0,0,0,0
+109,6065,16,2,0,Long sessions,0,0,0,0,0
+88,5973,17,0,0,Long sessions,0,0,0,0,0
+89,5632,25,0,0,Long sessions,0,0,0,0,0
+145,4489,18,1,0,Long sessions,0,0,0,0,0
+160,4165,17,2,0,Long sessions,0,0,0,0,0
+126,6110,19,2,0,Long sessions,0,0,0,0,0
+121,6249,24,1,0,Long sessions,0,0,0,0,0
+136,6077,21,0,0,Long sessions,0,0,0,0,0
+116,4343,30,2,0,Long sessions,0,0,0,0,0
+127,4439,19,0,0,Long sessions,0,0,0,0,0
+126,4433,23,1,0,Long sessions,0,0,0,0,0
+115,6134,32,0,0,Long sessions,0,0,0,0,0
+108,5267,20,1,0,Long sessions,0,0,0,0,0
+104,6246,27,2,0,Long sessions,0,0,0,0,0
+143,5336,30,1,0,Long sessions,0,0,0,0,0
+154,6404,21,2,0,Long sessions,0,0,0,0,0
+140,5418,31,2,0,Long sessions,0,0,0,0,0
+155,4577,15,2,0,Long sessions,0,0,0,0,0
+149,5477,17,1,0,Long sessions,0,0,0,0,0
+144,4133,18,0,0,Long sessions,0,0,0,0,0
+110,4281,24,2,0,Long sessions,0,0,0,0,0
+99,6453,16,1,0,Long sessions,0,0,0,0,0
+156,5004,33,0,0,Long sessions,0,0,0,0,0
+141,5950,23,0,0,Long sessions,0,0,0,0,0
+151,6430,19,2,0,Long sessions,0,0,0,0,0
+90,5821,17,1,0,Long sessions,0,0,0,0,0
+135,4265,27,0,0,Long sessions,0,0,0,0,0
+156,5531,29,1,0,Long sessions,0,0,0,0,0
+100,4528,19,0,0,Long sessions,0,0,0,0,0
+136,5028,31,2,0,Long sessions,0,0,0,0,0
+109,5902,15,0,0,Long sessions,0,0,0,0,0
+144,5237,30,0,0,Long sessions,0,0,0,0,0
+118,5976,17,0,0,Long sessions,0,0,0,0,0
+138,4496,17,2,0,Long sessions,0,0,0,0,0
+133,6125,25,1,0,Long sessions,0,0,0,0,0
+109,6046,28,0,0,Long sessions,0,0,0,0,0
+112,4230,24,0,0,Long sessions,0,0,0,0,0
+110,5091,28,0,0,Long sessions,0,0,0,0,0
+87,5919,23,0,0,Long sessions,0,0,0,0,0
+82,5898,23,1,0,Long sessions,0,0,0,0,0
+160,4052,28,2,0,Long sessions,0,0,0,0,0
+96,5806,30,2,0,Long sessions,0,0,0,0,0
+123,5949,31,0,0,Long sessions,0,0,0,0,0
+94,5438,26,1,0,Long sessions,0,0,0,0,0
+144,4081,27,2,0,Long sessions,0,0,0,0,0
+85,4750,16,1,0,Long sessions,0,0,0,0,0
+83,5702,23,0,0,Long sessions,0,0,0,0,0
+123,5926,25,1,0,Long sessions,0,0,0,0,0
+154,5211,27,2,0,Long sessions,0,0,0,0,0
+119,5004,35,0,0,Long sessions,0,0,0,0,0
+81,5529,35,0,0,Long sessions,0,0,0,0,0
+143,4733,18,1,0,Long sessions,0,0,0,0,0
+88,5404,33,1,0,Long sessions,0,0,0,0,0
+130,4855,18,0,0,Long sessions,0,0,0,0,0
+107,5838,21,1,0,Long sessions,0,0,0,0,0
+137,4804,20,0,0,Long sessions,0,0,0,0,0
+146,5932,31,1,0,Long sessions,0,0,0,0,0
+146,5125,24,1,0,Long sessions,0,0,0,0,0
+155,5580,28,2,0,Long sessions,0,0,0,0,0
+84,5138,35,1,0,Long sessions,0,0,0,0,0
+128,5880,19,2,0,Long sessions,0,0,0,0,0
+89,5365,29,0,0,Long sessions,0,0,0,0,0
+94,4126,17,2,0,Long sessions,0,0,0,0,0
+88,6462,24,1,0,Long sessions,0,0,0,0,0
+87,5595,28,2,0,Long sessions,0,0,0,0,0
+125,5624,25,2,0,Long sessions,0,0,0,0,0
+100,5852,26,0,0,Long sessions,0,0,0,0,0
+154,4594,33,0,0,Long sessions,0,0,0,0,0
+111,4993,35,2,0,Long sessions,0,0,0,0,0
+143,4826,31,0,0,Long sessions,0,0,0,0,0
+144,4318,24,1,0,Long sessions,0,0,0,0,0
+88,5307,18,2,0,Long sessions,0,0,0,0,0
+124,4864,20,1,0,Long sessions,0,0,0,0,0
+152,5800,22,1,0,Long sessions,0,0,0,0,0
+159,6480,34,2,0,Long sessions,0,0,0,0,0
+157,5214,30,2,0,Long sessions,0,0,0,0,0
+149,4795,27,2,0,Long sessions,0,0,0,0,0
+112,6144,30,1,0,Long sessions,0,0,0,0,0
+104,5296,35,1,0,Long sessions,0,0,0,0,0
+99,6401,34,2,0,Long sessions,0,0,0,0,0
+123,5540,34,2,0,Long sessions,0,0,0,0,0
+98,4022,20,0,0,Long sessions,0,0,0,0,0
+87,6175,22,1,0,Long sessions,0,0,0,0,0
+120,5771,31,0,0,Long sessions,0,0,0,0,0
+113,5546,21,0,0,Long sessions,0,0,0,0,0
+154,5417,15,2,0,Long sessions,0,0,0,0,0
+141,5185,32,1,0,Long sessions,0,0,0,0,0
+116,6373,21,1,0,Long sessions,0,0,0,0,0
+137,5698,15,1,0,Long sessions,0,0,0,0,0
+89,5000,35,2,0,Long sessions,0,0,0,0,0
+140,4802,19,1,0,Long sessions,0,0,0,0,0
+93,4341,32,2,0,Long sessions,0,0,0,0,0
+104,6402,33,1,0,Long sessions,0,0,0,0,0
+133,4900,25,2,0,Long sessions,0,0,0,0,0
+112,4537,26,1,0,Long sessions,0,0,0,0,0
+125,4735,29,2,0,Long sessions,0,0,0,0,0
+84,5717,27,0,0,Long sessions,0,0,0,0,0
+143,4657,25,1,0,Long sessions,0,0,0,0,0
+153,5196,27,0,0,Long sessions,0,0,0,0,0
+144,4581,35,2,0,Long sessions,0,0,0,0,0
+95,6122,26,2,0,Long sessions,0,0,0,0,0
+113,4938,19,0,0,Long sessions,0,0,0,0,0
+127,5609,20,0,0,Long sessions,0,0,0,0,0
+135,6485,15,0,0,Long sessions,0,0,0,0,0
+153,5440,35,0,0,Long sessions,0,0,0,0,0
+140,6313,30,1,0,Long sessions,0,0,0,0,0
+110,6293,18,1,0,Long sessions,0,0,0,0,0
+121,4961,24,0,0,Long sessions,0,0,0,0,0
+139,4142,25,0,0,Long sessions,0,0,0,0,0
+152,4654,17,1,0,Long sessions,0,0,0,0,0
+134,4524,19,2,0,Long sessions,0,0,0,0,0
+136,6036,25,2,0,Long sessions,0,0,0,0,0
+103,4400,18,0,0,Long sessions,0,0,0,0,0
+138,5064,34,0,0,Long sessions,0,0,0,0,0
+132,5559,19,0,0,Long sessions,0,0,0,0,0
+146,4147,19,1,0,Long sessions,0,0,0,0,0
+97,6269,20,1,0,Long sessions,0,0,0,0,0
+98,4203,21,1,0,Long sessions,0,0,0,0,0
+137,5299,27,1,0,Long sessions,0,0,0,0,0
+118,5084,24,1,0,Long sessions,0,0,0,0,0
+84,4589,17,1,0,Long sessions,0,0,0,0,0
+101,5622,27,0,0,Long sessions,0,0,0,0,0
+132,6271,21,2,0,Long sessions,0,0,0,0,0
+156,6387,15,1,0,Long sessions,0,0,0,0,0
+141,4471,25,0,0,Long sessions,0,0,0,0,0
+131,4235,34,1,0,Long sessions,0,0,0,0,0
+141,6013,33,0,0,Long sessions,0,0,0,0,0
+152,4788,15,2,0,Long sessions,0,0,0,0,0
+102,5731,21,1,0,Long sessions,0,0,0,0,0
+86,6020,30,2,0,Long sessions,0,0,0,0,0
+87,6094,32,2,0,Long sessions,0,0,0,0,0
+145,6288,18,1,0,Long sessions,0,0,0,0,0
+112,4861,29,2,0,Long sessions,0,0,0,0,0
+100,5637,30,1,0,Long sessions,0,0,0,0,0
+108,6048,33,0,0,Long sessions,0,0,0,0,0
+132,6124,29,1,0,Long sessions,0,0,0,0,0
+104,5161,18,1,0,Long sessions,0,0,0,0,0
+90,5486,32,2,0,Long sessions,0,0,0,0,0
+150,5764,33,0,0,Long sessions,0,0,0,0,0
+144,5170,17,1,0,Long sessions,0,0,0,0,0
+111,4312,32,2,0,Long sessions,0,0,0,0,0
+158,5907,17,0,0,Long sessions,0,0,0,0,0
+91,5232,30,0,0,Long sessions,0,0,0,0,0
+103,5109,25,0,0,Long sessions,0,0,0,0,0
+102,5901,23,2,0,Long sessions,0,0,0,0,0
+98,5004,33,2,0,Long sessions,0,0,0,0,0
+111,6397,18,1,0,Long sessions,0,0,0,0,0
+84,4824,32,2,0,Long sessions,0,0,0,0,0
+125,4852,31,1,0,Long sessions,0,0,0,0,0
+94,5835,21,0,0,Long sessions,0,0,0,0,0
+108,5324,35,2,0,Long sessions,0,0,0,0,0
+121,5102,20,0,0,Long sessions,0,0,0,0,0
+93,5260,34,2,0,Long sessions,0,0,0,0,0
+121,4312,33,0,0,Long sessions,0,0,0,0,0
+146,5649,33,1,0,Long sessions,0,0,0,0,0
+97,4528,17,2,0,Long sessions,0,0,0,0,0
+130,5351,32,1,0,Long sessions,0,0,0,0,0
+105,5135,19,1,0,Long sessions,0,0,0,0,0
+136,5461,17,0,0,Long sessions,0,0,0,0,0
+116,4767,26,1,0,Long sessions,0,0,0,0,0
+111,4835,17,1,0,Long sessions,0,0,0,0,0
+104,4806,29,0,0,Long sessions,0,0,0,0,0
+129,4288,19,0,0,Long sessions,0,0,0,0,0
+117,5994,33,1,0,Long sessions,0,0,0,0,0
+132,6277,35,2,0,Long sessions,0,0,0,0,0
+156,4393,28,0,0,Long sessions,0,0,0,0,0
+147,5306,24,2,0,Long sessions,0,0,0,0,0
+132,4619,34,1,0,Long sessions,0,0,0,0,0
+91,4861,29,2,0,Long sessions,0,0,0,0,0
+114,6050,24,1,0,Long sessions,0,0,0,0,0
+116,5788,23,2,0,Long sessions,0,0,0,0,0
+85,5719,19,2,0,Long sessions,0,0,0,0,0
+149,5926,27,2,0,Long sessions,0,0,0,0,0
+90,6222,34,1,0,Long sessions,0,0,0,0,0
+123,4075,25,2,0,Long sessions,0,0,0,0,0
+98,6209,25,2,0,Long sessions,0,0,0,0,0
+143,4846,15,2,0,Long sessions,0,0,0,0,0
+104,5476,19,2,0,Long sessions,0,0,0,0,0
+170,6499,19,2,0,Temporary retry bursts,0,0,0,0,0
+126,6123,15,1,0,Temporary retry bursts,0,0,0,0,0
+121,6373,24,0,0,Temporary retry bursts,0,0,0,0,0
+101,5348,16,5,0,Temporary retry bursts,0,0,0,0,0
+92,6203,18,1,0,Temporary retry bursts,0,0,0,0,0
+100,4584,9,1,0,Temporary retry bursts,0,0,0,0,0
+131,4064,11,2,0,Temporary retry bursts,0,0,0,0,0
+92,6018,8,3,0,Temporary retry bursts,0,0,0,0,0
+84,4999,25,4,0,Temporary retry bursts,0,0,0,0,0
+151,5898,6,3,0,Temporary retry bursts,0,0,0,0,0
+99,6001,12,3,0,Temporary retry bursts,0,0,0,0,0
+163,5497,8,5,0,Temporary retry bursts,0,0,0,0,0
+84,4519,14,3,0,Temporary retry bursts,0,0,0,0,0
+116,5561,16,0,0,Temporary retry bursts,0,0,0,0,0
+89,4785,21,0,0,Temporary retry bursts,0,0,0,0,0
+116,5081,7,4,0,Temporary retry bursts,0,0,0,0,0
+113,6337,6,2,0,Temporary retry bursts,0,0,0,0,0
+135,5435,18,1,0,Temporary retry bursts,0,0,0,0,0
+135,4504,5,4,0,Temporary retry bursts,0,0,0,0,0
+80,6364,16,3,0,Temporary retry bursts,0,0,0,0,0
+103,6143,14,4,0,Temporary retry bursts,0,0,0,0,0
+96,5498,22,4,0,Temporary retry bursts,0,0,0,0,0
+161,5716,17,2,0,Temporary retry bursts,0,0,0,0,0
+151,4287,10,1,0,Temporary retry bursts,0,0,0,0,0
+131,6483,24,1,0,Temporary retry bursts,0,0,0,0,0
+131,4834,23,4,0,Temporary retry bursts,0,0,0,0,0
+115,5717,12,5,0,Temporary retry bursts,0,0,0,0,0
+97,4864,6,5,0,Temporary retry bursts,1,0,0,1,0
+95,4351,6,3,0,Temporary retry bursts,0,0,0,0,0
+159,5724,25,4,0,Temporary retry bursts,0,0,0,0,0
+121,4490,7,3,0,Temporary retry bursts,0,0,0,0,0
+170,6333,24,1,0,Temporary retry bursts,0,0,0,0,0
+153,6128,10,5,0,Temporary retry bursts,0,0,0,0,0
+151,4141,19,2,0,Temporary retry bursts,0,0,0,0,0
+84,4148,5,4,0,Temporary retry bursts,1,0,0,1,0
+133,6314,8,3,0,Temporary retry bursts,0,0,0,0,0
+162,5961,21,2,0,Temporary retry bursts,0,0,0,0,0
+118,5634,8,3,0,Temporary retry bursts,0,0,0,0,0
+85,4035,21,2,0,Temporary retry bursts,0,0,0,0,0
+114,5192,7,1,0,Temporary retry bursts,0,0,0,0,0
+131,6000,14,3,0,Temporary retry bursts,0,0,0,0,0
+166,5357,5,3,0,Temporary retry bursts,0,0,0,0,0
+145,6410,6,5,0,Temporary retry bursts,1,0,0,1,0
+123,5980,6,1,0,Temporary retry bursts,0,0,0,0,0
+100,6304,19,0,0,Temporary retry bursts,0,0,0,0,0
+129,4507,8,4,0,Temporary retry bursts,0,0,0,0,0
+128,4377,15,5,0,Temporary retry bursts,0,0,0,0,0
+95,4533,5,1,0,Temporary retry bursts,0,0,0,0,0
+169,6228,22,3,0,Temporary retry bursts,0,0,0,0,0
+113,4214,8,3,0,Temporary retry bursts,0,0,0,0,0
+149,6131,15,2,0,Temporary retry bursts,0,0,0,0,0
+135,5886,12,3,0,Temporary retry bursts,0,0,0,0,0
+109,5017,23,2,0,Temporary retry bursts,0,0,0,0,0
+149,4115,8,0,0,Temporary retry bursts,0,0,0,0,0
+150,6473,11,0,0,Temporary retry bursts,0,0,0,0,0
+87,6110,16,2,0,Temporary retry bursts,0,0,0,0,0
+153,5015,10,5,0,Temporary retry bursts,0,0,0,0,0
+122,5778,25,1,0,Temporary retry bursts,0,0,0,0,0
+130,5385,7,5,0,Temporary retry bursts,0,0,0,0,0
+120,5326,18,0,0,Temporary retry bursts,0,0,0,0,0
+101,5200,25,1,0,Temporary retry bursts,0,0,0,0,0
+86,5992,8,3,0,Temporary retry bursts,0,0,0,0,0
+128,4712,16,3,0,Temporary retry bursts,0,0,0,0,0
+83,5160,19,4,0,Temporary retry bursts,0,0,0,0,0
+133,5515,7,1,0,Temporary retry bursts,0,0,0,0,0
+104,6023,15,3,0,Temporary retry bursts,0,0,0,0,0
+142,4173,16,4,0,Temporary retry bursts,0,0,0,0,0
+166,6465,24,1,0,Temporary retry bursts,0,0,0,0,0
+103,4221,8,5,0,Temporary retry bursts,1,0,0,1,0
+132,4452,11,5,0,Temporary retry bursts,0,0,0,0,0
+154,4154,14,2,0,Temporary retry bursts,0,0,0,0,0
+92,6406,23,0,0,Temporary retry bursts,0,0,0,0,0
+147,5216,9,5,0,Temporary retry bursts,0,0,0,0,0
+91,5135,23,5,0,Temporary retry bursts,0,0,0,0,0
+81,5353,13,2,0,Temporary retry bursts,0,0,0,0,0
+157,4164,19,1,0,Temporary retry bursts,0,0,0,0,0
+107,4023,19,1,0,Temporary retry bursts,0,0,0,0,0
+95,5048,15,0,0,Temporary retry bursts,0,0,0,0,0
+146,4617,16,0,0,Temporary retry bursts,0,0,0,0,0
+140,4734,20,1,0,Temporary retry bursts,0,0,0,0,0
+87,5169,18,2,0,Temporary retry bursts,0,0,0,0,0
+167,5322,14,1,0,Temporary retry bursts,0,0,0,0,0
+131,4850,24,2,0,Temporary retry bursts,0,0,0,0,0
+88,4564,18,4,0,Temporary retry bursts,0,0,0,0,0
+123,4612,23,4,0,Temporary retry bursts,0,0,0,0,0
+144,5387,8,0,0,Temporary retry bursts,0,0,0,0,0
+130,4840,15,3,0,Temporary retry bursts,0,0,0,0,0
+134,4662,15,2,0,Temporary retry bursts,0,0,0,0,0
+159,4474,17,5,0,Temporary retry bursts,0,0,0,0,0
+159,5079,19,1,0,Temporary retry bursts,0,0,0,0,0
+125,4349,20,3,0,Temporary retry bursts,0,0,0,0,0
+161,5157,19,0,0,Temporary retry bursts,0,0,0,0,0
+123,4724,8,0,0,Temporary retry bursts,0,0,0,0,0
+131,4599,12,5,0,Temporary retry bursts,0,0,0,0,0
+140,6496,9,4,0,Temporary retry bursts,0,0,0,0,0
+134,6273,20,3,0,Temporary retry bursts,0,0,0,0,0
+157,5589,15,5,0,Temporary retry bursts,0,0,0,0,0
+100,5183,13,2,0,Temporary retry bursts,0,0,0,0,0
+111,4800,21,2,0,Temporary retry bursts,0,0,0,0,0
+93,5931,7,0,0,Temporary retry bursts,0,0,0,0,0
+167,6076,23,5,0,Temporary retry bursts,1,0,0,1,0
+117,5411,10,2,0,Temporary retry bursts,0,0,0,0,0
+115,6269,12,1,0,Temporary retry bursts,0,0,0,0,0
+168,4285,22,4,0,Temporary retry bursts,0,0,0,0,0
+103,5676,17,5,0,Temporary retry bursts,0,0,0,0,0
+148,4067,24,4,0,Temporary retry bursts,0,0,0,0,0
+131,4766,11,5,0,Temporary retry bursts,0,0,0,0,0
+125,5712,8,5,0,Temporary retry bursts,0,0,0,0,0
+118,5466,7,1,0,Temporary retry bursts,0,0,0,0,0
+120,4000,8,2,0,Temporary retry bursts,0,0,0,0,0
+104,4983,19,3,0,Temporary retry bursts,0,0,0,0,0
+107,6200,20,5,0,Temporary retry bursts,0,0,0,0,0
+117,5316,20,2,0,Temporary retry bursts,0,0,0,0,0
+129,5305,16,5,0,Temporary retry bursts,0,0,0,0,0
+159,6022,9,3,0,Temporary retry bursts,0,0,0,0,0
+117,5121,10,3,0,Temporary retry bursts,0,0,0,0,0
+125,5082,15,1,0,Temporary retry bursts,0,0,0,0,0
+89,5116,7,2,0,Temporary retry bursts,0,0,0,0,0
+115,6001,19,0,0,Temporary retry bursts,0,0,0,0,0
+93,4446,23,2,0,Temporary retry bursts,0,0,0,0,0
+85,4645,19,0,0,Temporary retry bursts,0,0,0,0,0
+148,4482,15,0,0,Temporary retry bursts,0,0,0,0,0
+144,6232,21,2,0,Temporary retry bursts,0,0,0,0,0
+152,4222,10,4,0,Temporary retry bursts,0,0,0,0,0
+110,6090,11,5,0,Temporary retry bursts,0,0,0,0,0
+141,5487,7,2,0,Temporary retry bursts,0,0,0,0,0
+114,5773,10,5,0,Temporary retry bursts,0,0,0,0,0
+118,5904,10,0,0,Temporary retry bursts,0,0,0,0,0
+165,4339,15,0,0,Temporary retry bursts,0,0,0,0,0
+129,5185,11,2,0,Temporary retry bursts,0,0,0,0,0
+123,4412,10,4,0,Temporary retry bursts,0,0,0,0,0
+140,5031,20,1,0,Temporary retry bursts,0,0,0,0,0
+168,5247,17,4,0,Temporary retry bursts,0,0,0,0,0
+115,4465,13,4,0,Temporary retry bursts,0,0,0,0,0
+140,5028,22,2,0,Temporary retry bursts,0,0,0,0,0
+95,5657,20,0,0,Temporary retry bursts,0,0,0,0,0
+123,5043,7,3,0,Temporary retry bursts,0,0,0,0,0
+154,6297,21,0,0,Temporary retry bursts,0,0,0,0,0
+115,6154,10,2,0,Temporary retry bursts,0,0,0,0,0
+84,6459,14,3,0,Temporary retry bursts,0,0,0,0,0
+128,5118,11,3,0,Temporary retry bursts,0,0,0,0,0
+128,5600,21,0,0,Temporary retry bursts,0,0,0,0,0
+85,5224,22,0,0,Temporary retry bursts,0,0,0,0,0
+121,5165,12,0,0,Temporary retry bursts,0,0,0,0,0
+151,4318,13,3,0,Temporary retry bursts,0,0,0,0,0
+88,4966,9,4,0,Temporary retry bursts,0,0,0,0,0
+154,4161,11,0,0,Temporary retry bursts,0,0,0,0,0
+154,5672,12,5,0,Temporary retry bursts,0,0,0,0,0
+112,4937,10,1,0,Temporary retry bursts,0,0,0,0,0
+158,4150,9,1,0,Temporary retry bursts,0,0,0,0,0
+133,5765,18,4,0,Temporary retry bursts,0,0,0,0,0
+104,5661,22,4,0,Temporary retry bursts,0,0,0,0,0
+137,6157,14,4,0,Temporary retry bursts,0,0,0,0,0
+106,5970,20,0,0,Temporary retry bursts,0,0,0,0,0
+107,5750,10,2,0,Temporary retry bursts,0,0,0,0,0
+144,4129,21,2,0,Temporary retry bursts,0,0,0,0,0
+142,5639,12,4,0,Temporary retry bursts,0,0,0,0,0
+156,6468,20,2,0,Temporary retry bursts,0,0,0,0,0
+138,4656,8,0,0,Temporary retry bursts,0,0,0,0,0
+161,5821,14,2,0,Temporary retry bursts,0,0,0,0,0
+138,4378,18,3,0,Temporary retry bursts,0,0,0,0,0
+154,5839,22,3,0,Temporary retry bursts,0,0,0,0,0
+157,5563,23,2,0,Temporary retry bursts,0,0,0,0,0
+137,6375,11,3,0,Temporary retry bursts,0,0,0,0,0
+143,5101,18,3,0,Temporary retry bursts,0,0,0,0,0
+142,5877,12,5,0,Temporary retry bursts,0,0,0,0,0
+100,4894,12,4,0,Temporary retry bursts,0,0,0,0,0
+114,6272,13,1,0,Temporary retry bursts,0,0,0,0,0
+114,5290,10,5,0,Temporary retry bursts,0,0,0,0,0
+83,6330,10,3,0,Temporary retry bursts,0,0,0,0,0
+166,4303,17,0,0,Temporary retry bursts,0,0,0,0,0
+111,6154,9,2,0,Temporary retry bursts,0,0,0,0,0
+99,5241,5,0,0,Temporary retry bursts,0,0,0,0,0
+133,5584,8,2,0,Temporary retry bursts,0,0,0,0,0
+117,4826,18,3,0,Temporary retry bursts,0,0,0,0,0
+120,6286,23,2,0,Temporary retry bursts,0,0,0,0,0
+146,6479,14,4,0,Temporary retry bursts,0,0,0,0,0
+105,4057,8,1,0,Temporary retry bursts,0,0,0,0,0
+149,4924,5,3,0,Temporary retry bursts,0,0,0,0,0
+121,5106,5,1,0,Temporary retry bursts,0,0,0,0,0
+455,5963,12,0,1,Injected anomaly,0,1,0,0,0
+129,9898,11,2,1,Injected anomaly,0,1,0,0,0
+91,5078,43,1,1,Injected anomaly,0,1,0,0,0
+141,4240,12,14,1,Injected anomaly,0,1,0,0,0
+451,5298,6,1,1,Injected anomaly,0,1,0,0,0
+106,19061,8,0,1,Injected anomaly,0,1,0,0,0
+91,5729,53,2,1,Injected anomaly,0,1,0,0,0
+92,4507,7,9,1,Injected anomaly,1,1,0,1,0
+316,4547,6,1,1,Injected anomaly,0,1,0,0,0
+124,16857,14,0,1,Injected anomaly,0,1,0,0,0
+145,5406,64,2,1,Injected anomaly,0,1,0,0,0
+102,5056,14,12,1,Injected anomaly,0,1,0,0,0
+483,4044,5,2,1,Injected anomaly,1,1,0,1,0
+118,19318,12,2,1,Injected anomaly,0,1,0,0,0
+137,4491,53,2,1,Injected anomaly,0,1,0,0,0
+122,4213,12,6,1,Injected anomaly,0,1,0,0,0
+460,4253,12,1,1,Injected anomaly,0,1,0,0,0
+80,12055,5,2,1,Injected anomaly,1,1,0,1,0
+101,5150,65,1,1,Injected anomaly,0,1,0,0,0
+140,5676,8,15,1,Injected anomaly,0,1,0,0,0
+421,4266,5,1,1,Injected anomaly,0,1,0,0,0
+115,15842,13,1,1,Injected anomaly,0,1,0,0,0
+96,5147,53,1,1,Injected anomaly,0,1,0,0,0
+91,5237,12,15,1,Injected anomaly,0,1,0,0,0
+381,5134,5,0,1,Injected anomaly,0,1,0,0,0
+141,16262,13,0,1,Injected anomaly,0,1,0,0,0
+87,5652,85,0,1,Injected anomaly,0,1,0,0,0
+143,5897,12,11,1,Injected anomaly,0,1,0,0,0
+296,5671,5,0,1,Injected anomaly,0,1,0,0,0
+133,13189,13,2,1,Injected anomaly,0,1,0,0,0
+93,4277,50,0,1,Injected anomaly,0,1,0,0,0
+147,4313,15,8,1,Injected anomaly,0,1,0,0,0
+393,4213,15,2,1,Injected anomaly,0,1,0,0,0
+99,18545,5,2,1,Injected anomaly,0,1,0,0,0
+86,4471,56,1,1,Injected anomaly,0,1,0,0,0
+94,5883,15,7,1,Injected anomaly,0,1,0,0,0
+491,5112,14,0,1,Injected anomaly,0,1,0,0,0
+112,18439,12,1,1,Injected anomaly,0,1,0,0,0
+82,5682,88,0,1,Injected anomaly,0,1,0,0,0
+105,5885,8,6,1,Injected anomaly,0,1,0,0,0
+354,4570,12,0,1,Injected anomaly,0,1,0,0,0
+140,11428,12,2,1,Injected anomaly,0,1,0,0,0
+101,5341,78,1,1,Injected anomaly,0,1,0,0,0
+113,4332,5,8,1,Injected anomaly,1,1,0,1,0
+361,5627,6,2,1,Injected anomaly,0,1,0,0,0
+95,15658,6,0,1,Injected anomaly,0,1,0,0,0
+109,5474,56,0,1,Injected anomaly,0,1,0,0,0
+116,5122,10,15,1,Injected anomaly,0,1,0,0,0
+279,4024,13,1,1,Injected anomaly,0,1,0,0,0
+95,16943,11,2,1,Injected anomaly,0,1,0,0,0
+99,5257,55,2,1,Injected anomaly,0,1,0,0,0
+141,4399,6,9,1,Injected anomaly,1,1,0,1,0
+297,4579,11,1,1,Injected anomaly,0,1,0,0,0
+81,13503,8,2,1,Injected anomaly,0,1,0,0,0
+113,4266,65,2,1,Injected anomaly,0,1,0,0,0
+139,4582,9,11,1,Injected anomaly,0,1,0,0,0
+264,5911,10,1,1,Injected anomaly,0,1,0,0,0
+89,18028,5,1,1,Injected anomaly,0,1,0,0,0
+95,5332,65,2,1,Injected anomaly,0,1,0,0,0
+123,5280,15,11,1,Injected anomaly,0,1,0,0,0
+472,4969,11,1,1,Injected anomaly,0,1,0,0,0
+130,12971,13,1,1,Injected anomaly,0,1,0,0,0
+89,4933,88,2,1,Injected anomaly,0,1,0,0,0
+84,4807,15,8,1,Injected anomaly,0,1,0,0,0
+479,4317,15,0,1,Injected anomaly,0,1,0,0,0
+80,13773,7,1,1,Injected anomaly,0,1,0,0,0
+114,4922,71,0,1,Injected anomaly,0,1,0,0,0
+87,4010,8,9,1,Injected anomaly,1,1,0,1,0
+489,4611,6,2,1,Injected anomaly,0,1,0,0,0
+121,15512,13,1,1,Injected anomaly,0,1,0,0,0
+120,4117,51,1,1,Injected anomaly,0,1,0,0,0
+88,5232,5,10,1,Injected anomaly,1,1,0,1,0
+360,4122,6,2,1,Injected anomaly,0,1,0,0,0
+134,14782,13,0,1,Injected anomaly,0,1,0,0,0
+94,5212,81,1,1,Injected anomaly,0,1,0,0,0
+104,5039,7,11,1,Injected anomaly,0,1,0,0,0
+380,5712,13,1,1,Injected anomaly,0,1,0,0,0
+122,18172,9,0,1,Injected anomaly,0,1,0,0,0
+112,4208,78,0,1,Injected anomaly,0,1,0,0,0
+117,5221,15,12,1,Injected anomaly,0,1,0,0,0
+349,4455,5,1,1,Injected anomaly,0,1,0,0,0
+122,18707,12,2,1,Injected anomaly,0,1,0,0,0
+111,4978,79,2,1,Injected anomaly,0,1,0,0,0
+93,5528,7,13,1,Injected anomaly,0,1,0,0,0
+391,4526,15,0,1,Injected anomaly,0,1,0,0,0
+93,15285,14,2,1,Injected anomaly,0,1,0,0,0
+125,5472,80,2,1,Injected anomaly,0,1,0,0,0
+149,5748,8,11,1,Injected anomaly,0,1,0,0,0
+479,5180,6,1,1,Injected anomaly,0,1,0,0,0
+108,9565,9,2,1,Injected anomaly,0,1,0,0,0
+104,5528,61,1,1,Injected anomaly,0,1,0,0,0
+85,5866,10,11,1,Injected anomaly,0,1,0,0,0
+308,4855,7,1,1,Injected anomaly,0,1,0,0,0
+108,17979,11,1,1,Injected anomaly,0,1,0,0,0
+140,4904,59,2,1,Injected anomaly,0,1,0,0,0
+92,4809,7,6,1,Injected anomaly,1,1,0,1,0
+291,4891,8,1,1,Injected anomaly,0,1,0,0,0
+140,12537,9,2,1,Injected anomaly,0,1,0,0,0
+141,4887,72,1,1,Injected anomaly,0,1,0,0,0
+125,4781,9,12,1,Injected anomaly,0,1,0,0,0

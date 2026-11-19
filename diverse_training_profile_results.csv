@@ -1,0 +1,6 @@
+profile,Isolation Forest,Rules - Any feature,Rules - Two or more features,Hybrid - IF OR two features,Hybrid - IF AND two features
+Baseline,0.0,0.0,0.0,0.0,0.0
+High packet activity,0.0,0.022222222222222223,0.0,0.0,0.0
+Large data transfers,0.0,0.03888888888888889,0.0,0.0,0.0
+Long sessions,0.0,0.0,0.0,0.0,0.0
+Temporary retry bursts,0.027777777777777776,0.0,0.0,0.027777777777777776,0.0

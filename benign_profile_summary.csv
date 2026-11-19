@@ -1,0 +1,6 @@
+profile,records,false_positives,false_positive_rate
+Baseline,180,0,0.0
+High packet activity,180,164,0.9111111111111111
+Large data transfers,180,149,0.8277777777777777
+Long sessions,180,175,0.9722222222222222
+Temporary retry bursts,180,150,0.8333333333333334
